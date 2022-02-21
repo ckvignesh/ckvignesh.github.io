@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx",
+    "path": "/tags/100-days-of-code",
+    "result": {"data":{"allPost":{"nodes":[{"slug":"/github-submodules-and-how-you-can-use-them-for-your-projects","title":"Github Submodules and how you can use them for your Projects","date":"02.11.2021","excerpt":"Introduction Before we get into the crux of Github submodules, let me give you some context. I'm writing this article on Day 9th of my…","timeToRead":2,"description":null,"tags":[{"name":"Github","slug":"github"},{"name":"100DaysOfCode","slug":"100-days-of-code"}]}]}},"pageContext":{"slug":"100-days-of-code","name":"100DaysOfCode","formatString":"DD.MM.YYYY"}},
+    "staticQueryHashes": ["2744905544","3090400250","318001574"]}
