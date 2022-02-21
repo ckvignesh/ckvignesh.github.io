@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx",
-    "path": "/tags/fintech",
-    "result": {"data":{"allPost":{"nodes":[{"slug":"/payment-gateways-for-dummies","title":"Payment Gateways for Dummies","date":"26.10.2021","excerpt":"Payment gateways are integral to all online transactions. They are the channels through which virtual payments are fulfilled. The process of…","timeToRead":10,"description":"A brief guide in understanding the fintech working model.","tags":[{"name":"Fintech","slug":"fintech"}]}]}},"pageContext":{"slug":"fintech","name":"Fintech","formatString":"DD.MM.YYYY"}},
-    "staticQueryHashes": ["2744905544","3090400250","318001574"]}
