@@ -50,6 +50,10 @@ const Bio = () => {
           <a href={`https://twitter.com/${social?.twitter || ``}`}>
             You can follow me on Twitter.
           </a>
+          <a href={`https://ckvignesh.hashnode.dev/`}>
+            {" "}
+            Or read my Hashnode Blogs.
+          </a>
           <br />
           <a href={`https://ckvignesh.github.io/resume/`}>
             Read my full resume here.
