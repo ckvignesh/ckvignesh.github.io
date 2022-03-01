@@ -36,7 +36,7 @@ const Bio = () => {
         className="bio-avatar"
         layout="fixed"
         formats={["auto", "webp", "avif"]}
-        src="../images/image.jpg"
+        src="../images/image.png"
         width={50}
         height={50}
         quality={95}
@@ -46,10 +46,12 @@ const Bio = () => {
         <p>
           Written by <strong>{author.name}</strong> {author?.summary || null}
           {` `}
-          <br />|
-          <a href={`https://twitter.com/${social?.twitter || ``}`}>Twitter.</a>|
           <br />
-          <a href={`https://ckvignesh.github.io/resume/`}>Proof of Work.</a>|
+          |&nbsp;
+          <a href={`https://twitter.com/${social?.twitter || ``}`}>Twitter</a>
+          &nbsp;|&nbsp;
+          <a href={`https://ckvignesh.github.io/resume/`}>Proof of Work</a>
+          &nbsp;|
         </p>
       )}
     </div>
