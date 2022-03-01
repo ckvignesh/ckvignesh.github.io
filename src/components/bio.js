@@ -46,18 +46,10 @@ const Bio = () => {
         <p>
           Written by <strong>{author.name}</strong> {author?.summary || null}
           {` `}
+          <br />|
+          <a href={`https://twitter.com/${social?.twitter || ``}`}>Twitter.</a>|
           <br />
-          <a href={`https://twitter.com/${social?.twitter || ``}`}>
-            You can follow me on Twitter.
-          </a>
-          <a href={`https://ckvignesh.hashnode.dev/`}>
-            {" "}
-            Or read my Hashnode Blogs.
-          </a>
-          <br />
-          <a href={`https://ckvignesh.github.io/resume/`}>
-            Read my full resume here.
-          </a>
+          <a href={`https://ckvignesh.github.io/resume/`}>Proof of Work.</a>|
         </p>
       )}
     </div>

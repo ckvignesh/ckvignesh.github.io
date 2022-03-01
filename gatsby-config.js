@@ -4,7 +4,7 @@ module.exports = {
     title: `Vignesh's Blog`,
     author: {
       name: `C K Vignesh.`,
-      summary: `TLDR: I primarily build and I write.`,
+      summary: `Addicted to building and writing.`,
     },
     description: `My personal blogpage.`,
     siteUrl: `https://ckvignesh.github.io/`,
